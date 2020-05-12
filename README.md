@@ -27,5 +27,5 @@ Inside AirBnB which provided the labelled dataset
 Ashwani Dhankhar's article on medium
 Udacity Nanodegree for the project inspiration
 ## Future work
-These findings can be used for a comparative analysis with other nearby cities like San Francisco.
-Deep analysis can be done to understand why there is no relation between rating score and price.
+1. These findings can be used for a comparative analysis with other nearby cities like San Francisco.
+2. Deep analysis can be done to understand why there is no relation between rating score and price.
