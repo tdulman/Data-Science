@@ -5,9 +5,9 @@
 3) Creating Web-App 
 
 The RandomForestClassifier produced these results:
-Average precision: 0.90828547402
-Average recall: 0.928911097549
-Average f_score: 0.907891040215
+-Average precision: 0.90828547402
+-Average recall: 0.928911097549
+-Average f_score: 0.907891040215
 
 
 # File Structure
