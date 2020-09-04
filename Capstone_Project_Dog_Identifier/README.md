@@ -49,7 +49,7 @@ When user upload an image, the model will first detect whether the image is huma
 ## Conclusion
 
 In this project, I have learned how to detect faces by using Neural Networks. I first started detecting human faces and then learned how to use Resnet-50 model to detect dog faces. As a next step I created a CNN from scratch to classify dog breeds. I also used transfer learning along with CNN to classify dog breeds. In this step, I used InceptionV3 model because Resnet50 and VGG19 models have over 20 million parameters that means have an enormous entropic capacity and are capable of just memorizing the training data images. During these steps I was able to see improvement of test accuracy up to 80%. In the last 2 steps I actually started using my trained model to test with providing images from my local computer randomly. I have given 6 images (3 human and 3 dogs) and model was able to predict all of them correct.
-# Future Improvements:
+### Future Improvements:
 
 There are several techniques for performance improvement with model optimization and one of them is using the model to predict on training data, retrain the model for the wrongly predicted images. This can be applied to our case to improve the test accuracy.
 
